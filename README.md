@@ -10,12 +10,11 @@
 
 Pezzy is a decentralized money market fund built on Hedera Hashgraph that provides Rwandan investors with access to high-yield, liquid savings through tokenized deposits. Earn **8.5% APY** with instant liquidity, integrated seamlessly with mobile money payments.
 
-**🔗 Live Testnet Deployment:**
-- **Token ID:** `0.0.4867332`
-- **Treasury:** `0.0.4867328`
-- [View on HashScan](https://hashscan.io/testnet/token/0.0.4867332)
-
+**🔗 Hashgraph certificate links:**
+[Siltanu](https://drive.google.com/file/d/1Xj9_9y9WHjJ5BPwuaYsGAgkkEvQHyYni/view?usp=sharing)
+[Augustine](https://drive.google.com/file/d/1sY-MZcpbALygfVqp5qfDKKUWF56pAVY3/view?usp=sharing)
 ---
+**🔗 Demo Video Link:**
 
 ## 📑 Table of Contents
 
