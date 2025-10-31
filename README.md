@@ -179,8 +179,8 @@ ng e2e
 
 ## License
 
-Proprietary - Pezzy Rwanda
+none
 
 ## Support
 
-For support, contact: support@pezzy.rw
+For support, contact: devis@pezzy.app
